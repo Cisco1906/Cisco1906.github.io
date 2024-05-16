@@ -383,5 +383,4 @@ The HTTP protocol has its own mechanisms for authenticating users. These include
 
 `Basic`: sends user credentials as Base64-encoded string in the request header<br>
 `NTLM`: challenge-response mechanism<br>
-`Digest`: challenge-response and uses MD5 checksums of a nonce with user’s credentials.<br>
-
+`Digest`: challenge-response and uses MD5 checksums of a nonce with user’s credentials.
