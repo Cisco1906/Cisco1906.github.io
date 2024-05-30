@@ -11,7 +11,7 @@ order: 4
 systems. Committed to ensuring the highest level of security for organizations by staying ahead of cyber threats and proactively implementing cutting-edge security solutions.
 - I'm deeply passionate about cybersecurity, with a particular focus on the offensive side.
 - I believe in a well-rounded understanding, embracing both offensive and defensive aspects of cybersecurity (red and blue teaming).
-- Hobbies: Beyond cybersecurity, I enjoy a variety of hobbies including reading books, playing cricket and football, gaming, listening to music, and spending quality time with dog as I'm a dog lover at heart.
+- Hobbies: Beyond cybersecurity, I enjoy a variety of hobbies including reading books, playing cricket and football, gaming, listening to music.
 
 # **Certifications**
 - **CISEH:** Certified Information Security and Ethical Hacker `(CISEH)` Certified by `Pristine Infsolution`.
